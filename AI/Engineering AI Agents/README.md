@@ -1,1 +1,1 @@
-Engineering AI Agents [https://cs329z.stanford.edu/]
+[Engineering AI Agents] (https://cs329z.stanford.edu/)
